@@ -10,4 +10,6 @@ It's as minimalistic as possible, but comes with pre-configured:
 - properly working `export`ing and `import`ing (with VS Code workspace setting for correct auto import format)
 - example `manifest.json`
 
+Related blog post: <https://dev.to/voodu/chrome-extension-101-environment-setup-4536>
+
 Happy coding!
